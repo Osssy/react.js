@@ -1,0 +1,46 @@
+.box {
+	background-color: yellow;
+	width: 300px;
+	height: 200px;
+	margin: 20px auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.btn {
+	padding: 5px;
+	margin: 5px;
+}
+
+.light {
+	background-color: #faffff;
+}
+
+.red {
+	background-color: red;
+}
+
+.success {
+	background-color: green;
+}
+
+.new {
+	background-color: brown;
+}
+
+.text {
+	color: green;
+	text-align: center;
+	margin: 5px;
+}
+
+.field {
+	border: 2px solid grey;
+}
+
+textarea {
+	width: 250px;
+	height: 100px;
+}
