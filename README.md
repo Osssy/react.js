@@ -1,2 +1,2 @@
-# react
+# react.js
 - lessons and tutorials
